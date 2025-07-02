@@ -1,0 +1,5 @@
+fastmcp-http
+wikipedia
+openai
+python-dotenv
+requests
