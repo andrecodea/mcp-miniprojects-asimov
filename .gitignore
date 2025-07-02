@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Other
+scripts/
+.python-version
+MCPs na Prática - Apostila Asimov Academy.pdf
+
+# Environment Variables
+.env
